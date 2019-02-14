@@ -1,3 +1,5 @@
+修改 im-select，引用 https://github.com/daipeihust/im-select 里的im-select
+---
 # What is this?
 
 SmartIM is a plugin to make vim stand well with input methods. It switches
